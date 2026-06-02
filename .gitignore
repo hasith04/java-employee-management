@@ -1,0 +1,52 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE Specific
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+.flattened-pom.xml
+
+# Gradle
+build/
+.gradle/
+.gradle
+*.gradle.bak
+
+# Build artifacts
+bin/
+out/
+dist/
+
+# Log files
+*.log
+logs/
+
+# System files
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# General
+.env
+.env.local
+.classpath
+.project
+.settings/
